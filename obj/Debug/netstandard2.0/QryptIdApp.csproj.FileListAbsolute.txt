@@ -1,0 +1,17 @@
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\bin\Debug\netstandard2.0\QryptIdApp.deps.json
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\bin\Debug\netstandard2.0\QryptIdApp.dll
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\bin\Debug\netstandard2.0\ref\QryptIdApp.dll
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\bin\Debug\netstandard2.0\QryptIdApp.pdb
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QryptIdApp.csprojAssemblyReference.cache
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QRPage.xaml.g.cs
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QryptIdApp.AssemblyInfoInputs.cache
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QryptIdApp.AssemblyInfo.cs
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QryptIdApp.csproj.CoreCompileInputs.cache
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QryptIdApp.dll
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\ref\QryptIdApp.dll
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\QryptIdApp.pdb
+C:\Users\thean\Downloads\QRYPT-ID-appli\QRYPT-ID-appli\QryptIdApp\QryptIdApp\obj\Debug\netstandard2.0\ScanPage.xaml.g.cs
